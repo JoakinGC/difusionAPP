@@ -47,4 +47,12 @@ while True:
 window.close()
 
 
-# ultima modificacion
+# penultima modificacion
+
+test = [
+            [sg.Text("prueba 1")],
+            [sg.Input()],
+            [sg.Button('COMPROBACION')]
+]
+
+
